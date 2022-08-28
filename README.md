@@ -19,6 +19,10 @@ I’m passionate about working open source research projects & building thriving
 <a href="https://twitter.com/jpwahle"><img align="left" src="https://raw.githubusercontent.com/jpwahle/jpwahle/main/images/twitter.svg" alt="Jan Philip Wahle | Medium" width="21px"/></a>
 </br>
 
+## 📖 Publications
+
+You can find a full list of my publications [here](https://scholar.google.de/citations?user=MI0C9mAAAAAJ).
+
 ## 🔭 I'm currently working on
 
 See [here](https://jpwahle.com/projects) for a complete list of my projects.
