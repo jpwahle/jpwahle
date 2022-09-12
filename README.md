@@ -29,8 +29,7 @@ See [here](https://jpwahle.com/projects) for a complete list of my projects.
 
 ## 📝 Latest Blog Posts
 
-- [How to identify machine-paraphrased plagiarism](https://jpwahle.com/science/how-to-identify-machine-paraphrased-plagiarism)
-- [Can machines can generate better plagiarism than humans?](https://jpwahle.com/science/can-machines-can-generate-better-plagiarism-than-humans)
+My most recent blog posts are regularly posted [here](https://jpwahle.com/writing).
 
 ## 📈 GitHub Stats 
 
