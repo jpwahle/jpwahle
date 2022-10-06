@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://www.jpwahle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/jpwahle/jpwahle/main/images/github-banner.png" alt="my banner"></a>
-</p>
-
 <h3 align="center">
 Hi there, I'm <a href="https://www.jpwahle.com/" target="_blank" rel="noreferrer">Jan Philip</a> 👋
 </h3>
@@ -14,10 +10,10 @@ I’m passionate about working open source research projects & building thriving
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/jan-philip-wahle/"><img align="left" src="https://raw.githubusercontent.com/jpwahle/jpwahle/main/images/linkedin.svg" alt="Jan Philip Wahle | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/jpwahle"><img align="left" src="https://raw.githubusercontent.com/jpwahle/jpwahle/main/images/instagram.svg" alt="Jan Philip Wahle | Instagram" width="21px"/></a>
 <a href="https://twitter.com/jpwahle"><img align="left" src="https://raw.githubusercontent.com/jpwahle/jpwahle/main/images/twitter.svg" alt="Jan Philip Wahle | Medium" width="21px"/></a>
 </br>
+<a href="https://www.linkedin.com/in/jan-philip-wahle/"><img align="left" src="https://raw.githubusercontent.com/jpwahle/jpwahle/main/images/linkedin.svg" alt="Jan Philip Wahle | LinkedIn" width="21px"/></a>
+
 
 ## 📖 Publications
 
