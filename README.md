@@ -1,3 +1,4 @@
+<br/>
 <h3 align="center">
 Hi there, I'm <a href="https://www.jpwahle.com/" target="_blank" rel="noreferrer">Jan Philip</a> 👋
 </h3>
@@ -5,6 +6,7 @@ Hi there, I'm <a href="https://www.jpwahle.com/" target="_blank" rel="noreferrer
 <h2 align="center">
 I'm a Computer Science Researcher 💻
 </h2> 
+<br/>
 
 I’m passionate about working open source research projects & building thriving communities around them. My main focus lies in developing plagiarism detection solutions using natural language processing.
 
