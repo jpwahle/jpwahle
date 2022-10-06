@@ -11,9 +11,8 @@ I’m passionate about working open source research projects & building thriving
 ### 🤝 Connect with me:
 
 <a href="https://twitter.com/jpwahle"><img align="left" src="https://raw.githubusercontent.com/jpwahle/jpwahle/main/images/twitter.svg" alt="Jan Philip Wahle | Medium" width="21px"/></a>
-</br>
 <a href="https://www.linkedin.com/in/jan-philip-wahle/"><img align="left" src="https://raw.githubusercontent.com/jpwahle/jpwahle/main/images/linkedin.svg" alt="Jan Philip Wahle | LinkedIn" width="21px"/></a>
-
+<br/>
 
 ## 📖 Publications
 
