@@ -3,14 +3,14 @@
 Hi there, I'm <a href="https://www.jpwahle.com/" target="_blank" rel="noreferrer">Jan Philip</a> 👋
 </h3>
 
-<h2 align="center">
+<h3 align="center">
 I'm a Computer Science Researcher 💻
-</h2> 
+</h3> 
 <br/>
 
 I’m passionate about working open source research projects & building thriving communities around them. My main focus lies in developing plagiarism detection solutions using natural language processing.
 
-### 🤝 Connect with me:
+## 🤝 Connect with me:
 
 <a href="https://twitter.com/jpwahle"><img align="left" src="https://raw.githubusercontent.com/jpwahle/jpwahle/main/images/twitter.svg" alt="Jan Philip Wahle | Medium" width="21px"/></a>
 <a href="https://www.linkedin.com/in/jan-philip-wahle/"><img align="left" src="https://raw.githubusercontent.com/jpwahle/jpwahle/main/images/linkedin.svg" alt="Jan Philip Wahle | LinkedIn" width="21px"/></a>
