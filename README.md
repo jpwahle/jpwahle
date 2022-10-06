@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://www.jpwahle.com/" target="_blank" rel="noreferrer
 </h3>
 
 <h2 align="center">
-I'm a Computer Science Researcher 💻, Drone Pilot 🚁, and Photographer 📸!
+I'm a Computer Science Researcher 💻
 </h2> 
 
 I’m passionate about working open source research projects & building thriving communities around them. My main focus lies in developing plagiarism detection solutions using natural language processing.
