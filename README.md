@@ -12,15 +12,11 @@ I’m passionate about working open source research projects & building thriving
 
 ## 📖 Publications
 
-You can find a full list of my publications [here](https://scholar.google.de/citations?user=MI0C9mAAAAAJ).
-
-## 🔭 I'm currently working on
-
-See [here](https://jpwahle.com/projects) for a complete list of my projects.
+You can find a full list of my publications [here](https://jpwahle.com/pub).
 
 ## 📝 Latest Blog Posts
 
-My most recent blog posts are regularly posted [here](https://jpwahle.com/writing).
+My most recent blog posts are regularly posted [here](https://jpwahle.com/blog).
 
 ## 📈 GitHub Stats 
 
