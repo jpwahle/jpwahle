@@ -18,10 +18,6 @@ You can find a full list of my publications [here](https://jpwahle.com/pub).
 
 My most recent blog posts are regularly posted [here](https://jpwahle.com/blog).
 
-## 📈 GitHub Stats 
-
-[![Jan Philip's github stats](https://github-readme-stats.vercel.app/api?username=jpwahle)](https://github.com/jpwahle)
-
 ## 🤝 Connect with me:
 
 <a href="https://twitter.com/jpwahle"><img align="left" src="https://raw.githubusercontent.com/jpwahle/jpwahle/main/images/twitter.svg" alt="Jan Philip Wahle | Medium" width="21px"/></a>
