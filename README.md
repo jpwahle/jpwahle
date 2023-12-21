@@ -14,10 +14,6 @@ I’m passionate about working open source research projects & building thriving
 
 You can find a full list of my publications [here](https://jpwahle.com/pub).
 
-## 📝 Latest Blog Posts
-
-My most recent blog posts are regularly posted [here](https://jpwahle.com/blog).
-
 ## 🤝 Connect with me:
 
 <a href="https://twitter.com/jpwahle"><img align="left" src="https://raw.githubusercontent.com/jpwahle/jpwahle/main/images/twitter.svg" alt="Jan Philip Wahle | Medium" width="21px"/></a>
