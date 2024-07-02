@@ -8,11 +8,11 @@ I'm a Computer Science Researcher 💻
 </h3> 
 <br/>
 
-I’m passionate about working open source research projects & building thriving communities around them. My main focus lies in developing plagiarism detection solutions using natural language processing.
+I’m passionate about working on open source research projects & building thriving communities around them. My main focus lies in developing plagiarism detection solutions using natural language processing.
 
 ## 📖 Publications
 
-You can find a full list of my publications [here](https://jpwahle.com/pub).
+You can find a full list of my publications [here](https://scholar.google.com/citations?user=MI0C9mAAAAAJ).
 
 ## 🤝 Connect with me:
 
