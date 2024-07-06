@@ -3,8 +3,26 @@
 hi there, i'm <a href="https://www.jpwahle.com/" target="_blank" rel="noreferrer">jan philip</a> 👋
 </h3>
 
-jan philip wahle is a phd candidate in computer science and natural language processing at the university of göttingen in germany under the guidance of prof. gipp and dr. ruas. he received his master's degree in computer science from the university of wuppertal and worked for two years for the automotive company aptiv plc before continuing with his phd studies. during his phd, he has been a visiting researcher at the national research council canada and the university of toronto. his research has been presented at acl, emnlp, eacl, and coling (among others).
-
+jan philip wahle is a phd candidate in computer science and
+natural language processing at the
+<a href="https://www.uni-goettingen.de/en/1.html">university of göttingen in germany</a>
+under the guidance of
+<a href="https://gipplab.org">prof. gipp</a> and
+<a href="https://terryruas.com">dr. ruas</a>. he received
+his master's degree in computer science from the
+<a href="https://www.uni-wuppertal.de/">university of wuppertal</a>
+and worked for two years for the automotive company
+<a href="https://www.aptiv.com">aptiv plc</a> before
+continuing with his phd studies. during his phd, he has been
+a visiting researcher at the
+<a href="https://nrc.canada.ca/en">national research council canada</a>
+and the
+<a href="https://www.utoronto.ca/">university of toronto</a>. his research has been presented at
+<a href="https://aclanthology.org/2023.acl-long.734/">acl</a>,
+<a href="https://aclanthology.org/2022.emnlp-main.62/">emnlp</a>,
+<a href="https://aclanthology.org/2024.eacl-long.180/">eacl</a>, and
+<a href="https://aclanthology.org/2024.lrec-main.952/">coling</a>
+(among others).
 ## publications
 
 you can find a full list of my publications [on google scholar](https://scholar.google.com/citations?user=MI0C9mAAAAAJ).
