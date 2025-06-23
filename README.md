@@ -7,17 +7,15 @@ Jan Philip Wahle is a PhD candidate in computer science and
 natural language processing at the
 <a href="https://www.uni-goettingen.de/en/1.html">University of Göttingen in Germany</a>
 under the guidance of
-<a href="https://gipplab.org">Prof. Gipp</a> and
-<a href="https://terryruas.com">Dr. Ruas</a>. He received
+<a href="https://gipplab.org">Prof. Bela Gipp</a>,
+<a href="https://terryruas.com">Dr. Terry Ruas</a>, and <a href="https://saifmohammad.com">Dr. Saif M. Mohammad</a>. He received
 his master's degree in computer science from the
 <a href="https://www.uni-wuppertal.de/">University of Wuppertal</a>
 and worked for two years for the automotive company
 <a href="https://www.aptiv.com">Aptiv PLC</a> before
 continuing with his PhD studies. During his PhD, he has been
 a visiting researcher at the
-<a href="https://nrc.canada.ca/en">National Research Council Canada</a>
-and the
-<a href="https://www.utoronto.ca/">University of Toronto</a>. His research has been presented at
+<a href="https://nrc.canada.ca/en">National Research Council Canada</a>. His research has been presented at
 <a href="https://aclanthology.org/2023.acl-long.734/">ACL</a>,
 <a href="https://aclanthology.org/2022.emnlp-main.62/">EMNLP</a>,
 <a href="https://aclanthology.org/2024.eacl-long.180/">EACL</a>, and
