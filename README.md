@@ -35,5 +35,5 @@ Read my posts about AI, work, life and the world [on my blog](https://blog.jpwah
 <a href="https://twitter.com/jpwahle"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="Jan Philip Wahle | Medium" width="21px"/></a>
 <a href="https://www.linkedin.com/in/jan-philip-wahle/"><img align="left" src="https://raw.githubusercontent.com/jpwahle/jpwahle/main/images/linkedin.svg" alt="Jan Philip Wahle | LinkedIn" width="21px"/></a>
 <a href="https://huggingface.co/jpwahle"><img align="left" src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Jan Philip Wahle | HuggingFace" width="21px"/></a>
-<a href="https://scholar.google.com/citations?user=MI0C9mAAAAAJ"><img align="left" src="https://static-00.iconduck.com/assets.00/google-scholar-icon-914x1024-lt8gwjty.png" alt="Jan Philip Wahle | Google Scholar" width="21px"/></a>
+<a href="https://scholar.google.com/citations?user=MI0C9mAAAAAJ"><img align="left" src="https://user-images.githubusercontent.com/66117993/96351903-818a8b00-1084-11eb-96f6-3a931d66fff6.png" alt="Jan Philip Wahle | Google Scholar" width="21px"/></a>
 <br/>
