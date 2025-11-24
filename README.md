@@ -26,10 +26,6 @@ a visiting researcher at the
 
 You can find a full list of my publications [on Google Scholar](https://scholar.google.com/citations?user=MI0C9mAAAAAJ).
 
-## Blog
-
-Read my posts about AI, work, life and the world [on my blog](https://blog.jpwahle.com/).
-
 ## Find me
 
 <a href="https://twitter.com/jpwahle"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="Jan Philip Wahle | Medium" width="21px"/></a>
