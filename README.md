@@ -1,26 +1,30 @@
-<br/>
-<h3 align="center">
-Hi there, I'm <a href="https://www.jpwahle.com/" target="_blank" rel="noreferrer">Jan Philip</a> 👋
-</h3>
+## About Me
 
-Jan Philip Wahle is a PhD candidate in computer science and
-natural language processing at the
-<a href="https://www.uni-goettingen.de/en/1.html">University of Göttingen in Germany</a>
-under the guidance of
-<a href="https://gipplab.org">Prof. Bela Gipp</a>,
-<a href="https://terryruas.com">Dr. Terry Ruas</a>, and <a href="https://saifmohammad.com">Dr. Saif M. Mohammad</a>. He received
-his master's degree in computer science from the
-<a href="https://www.uni-wuppertal.de/">University of Wuppertal</a>
-and worked for two years for the automotive company
-<a href="https://www.aptiv.com">Aptiv PLC</a> before
-continuing with his PhD studies. During his PhD, he has been
-a visiting researcher at the
-<a href="https://nrc.canada.ca/en">National Research Council Canada</a>. His research has been presented at
-<a href="https://aclanthology.org/2023.acl-long.734/">ACL</a>,
-<a href="https://aclanthology.org/2022.emnlp-main.62/">EMNLP</a>,
-<a href="https://aclanthology.org/2024.eacl-long.180/">EACL</a>, and
-<a href="https://aclanthology.org/2024.lrec-main.952/">COLING</a>
-(among others).
+Dr. Jan Philip Wahle is a faculty member at the
+<a href="https://www.uni-goettingen.de/en/1.html" target="_blank">
+  University of Göttingen
+</a>.
+He received his PhD in Computer Science from the University of Göttingen and has been a visiting researcher at the National Research Council Canada
+(<a href="https://nrc.canada.ca/en" target="_blank">NRC</a>)
+working with
+<a href="https://www.saifmohammad.com" target="_blank">
+  Dr. Saif M. Mohammad
+</a>.
+Before his PhD, he worked as a software engineer for the autonomous driving company
+<a href="https://www.aptiv.com" target="_blank">Aptiv PLC</a>.
+His main research interests lie in computational linguistics and natural language processing with a focus on reasoning methods via reinforcement learning and agentic systems and AI safety via interpretability.
+His research has been presented at various conferences, including
+<a href="https://aclanthology.org/2023.acl-long.734/" target="_blank">ACL</a>
+and
+<a href="https://aclanthology.org/2024.emnlp-main.617" target="_blank">EMNLP</a>,
+and won the
+<a href="https://2025.aclweb.org/program/awards/" target="_blank">
+  ACL Best Resource Paper Award
+</a>
+and the
+<a href="https://semeval.github.io/SemEval2025/awards" target="_blank">
+  SemEval Best Task Award
+</a>.
 
 ## Publications
 
