@@ -26,6 +26,11 @@ and the
   SemEval Best Task Award
 </a>.
 
+## Services
+[AI Conference Deadlines](https://www.conferencedeadlines.com)
+[AI Usage Cards](https://ai-cards.org)
+[Cite Assist](https://citeassist.uni-goettingen.de)
+
 ## Publications
 
 You can find a full list of my publications [on Google Scholar](https://scholar.google.com/citations?user=MI0C9mAAAAAJ).
