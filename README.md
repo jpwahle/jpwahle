@@ -30,7 +30,7 @@ and the
 * [AI Conference Deadlines](https://www.conferencedeadlines.com/)
 * [CheckMyThesis](https://checkmythesis.com/)
 * [Swipe Photos App](https://www.swipephotos.com/)
-* [Apple Mail AI Composer](https://jpwahle.github.io/apple-mail-ai-composer/)
+* [Apple Mail AI Plugin](https://jpwahle.github.io/apple-mail-ai-plugin/)
 * [AI Usage Cards](https://ai-cards.org)
 * [Cite Assist](https://citeassist.uni-goettingen.de)
 
