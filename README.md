@@ -29,6 +29,7 @@ and the
 ## Coding Projects
 * [AI Conference Deadlines](https://www.conferencedeadlines.com/)
 * [CheckMyThesis](https://checkmythesis.com/)
+* [Swipe Photos App](https://www.swipephotos.com/)
 * [Apple Mail AI Composer](https://jpwahle.github.io/apple-mail-ai-composer/)
 * [AI Usage Cards](https://ai-cards.org)
 * [Cite Assist](https://citeassist.uni-goettingen.de)
