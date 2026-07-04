@@ -27,11 +27,11 @@ and the
 </a>.
 
 ## Coding Projects
-* [AI Conference Deadlines](https://www.conferencedeadlines.com/)
 * [CheckMyThesis](https://checkmythesis.com/)
 * [Swipe Photos App](https://www.swipephotos.com/)
-* [Apple Mail AI Plugin](https://jpwahle.github.io/apple-mail-ai-plugin/)
+* [AI Conference Deadlines](https://www.conferencedeadlines.com/)
 * [AI Usage Cards](https://ai-cards.org)
+* [Apple Mail AI Plugin](https://jpwahle.github.io/apple-mail-ai-plugin/)
 * [Cite Assist](https://citeassist.uni-goettingen.de)
 
 ## Publications
