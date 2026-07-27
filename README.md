@@ -28,7 +28,7 @@ and the
 
 ## Coding Projects
 * [CheckMyThesis](https://checkmythesis.com/)
-* [Swipe Photos App](https://www.swipephotos.com/)
+* [SwipePhotos App](https://www.swipephotos.com/)
 * [AI Conference Deadlines](https://www.conferencedeadlines.com/)
 * [AI Usage Cards](https://ai-cards.org)
 * [Apple Mail AI Plugin](https://jpwahle.github.io/apple-mail-ai-plugin/)
