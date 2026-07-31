@@ -29,6 +29,7 @@ and the
 ## Coding Projects
 * [CheckMyThesis](https://checkmythesis.com/)
 * [SwipePhotos App](https://www.swipephotos.com/)
+* [Bloatless App](https://www.bloatless.app/)
 * [AI Conference Deadlines](https://www.conferencedeadlines.com/)
 * [AI Usage Cards](https://ai-cards.org)
 * [Apple Mail AI Plugin](https://jpwahle.github.io/apple-mail-ai-plugin/)
