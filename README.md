@@ -26,7 +26,7 @@ and the
   SemEval Best Task Award
 </a>.
 
-## Coding Projects
+## Current Projects
 * [CheckMyThesis](https://checkmythesis.com/)
 * [SwipePhotos App](https://www.swipephotos.com/)
 * [Bloatless App](https://www.bloatless.app/)
