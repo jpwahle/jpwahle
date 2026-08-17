@@ -34,6 +34,7 @@ and the
 * [AI Usage Cards](https://ai-cards.org)
 * [Apple Mail AI Plugin](https://jpwahle.github.io/apple-mail-ai-plugin/)
 * [Cite Assist](https://citeassist.uni-goettingen.de)
+* [Daily Goal](https://jpwahle.github.io/daily-goal/)
 
 ## Publications
 
