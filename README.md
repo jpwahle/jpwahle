@@ -28,13 +28,13 @@ and the
 
 ## Current Projects
 * [CheckMyThesis](https://checkmythesis.com/)
-* [SwipePhotos App](https://www.swipephotos.com/)
-* [Bloatless App](https://www.bloatless.app/)
 * [AI Conference Deadlines](https://www.conferencedeadlines.com/)
 * [AI Usage Cards](https://ai-cards.org)
 * [Apple Mail AI Plugin](https://jpwahle.github.io/apple-mail-ai-plugin/)
 * [Cite Assist](https://citeassist.uni-goettingen.de)
 * [Daily Goal](https://jpwahle.github.io/daily-goal/)
+* [SwipePhotos App](https://www.swipephotos.com/)
+* [Bloatless App](https://www.bloatless.app/)
 
 ## Publications
 
