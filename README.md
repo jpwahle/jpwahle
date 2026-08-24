@@ -7,3 +7,4 @@
 * [Daily Goal](https://jpwahle.github.io/daily-goal/)
 * [SwipePhotos App](https://www.swipephotos.com/)
 * [Bloatless App](https://www.bloatless.app/)
+* [Supplement Price](https://www.supplementprice.app/)
