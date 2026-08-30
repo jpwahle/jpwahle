@@ -8,3 +8,4 @@
 * [SwipePhotos App](https://www.swipephotos.com/)
 * [Bloatless App](https://www.bloatless.app/)
 * [Supplement Price](https://www.supplementprice.app/)
+* [Office Squats](https://officesquats.app/)
