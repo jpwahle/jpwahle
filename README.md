@@ -1,4 +1,4 @@
-## Current Projects
+## Current Software Projects
 * [CheckMyThesis](https://checkmythesis.com/)
 * [AI Conference Deadlines](https://www.conferencedeadlines.com/)
 * [AI Usage Cards](https://ai-cards.org)
