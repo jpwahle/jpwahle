@@ -30,11 +30,6 @@
 </p>
 
 <p>
-  <img src="images/projects/daily-goal.png" width="32" height="32" align="absmiddle" alt="">&nbsp;&nbsp;<strong><a href="https://jpwahle.github.io/daily-goal/">Daily Goal</a></strong><br>
-  Your daily focus, always in view in the Mac notch.
-</p>
-
-<p>
   <img src="images/projects/swipephotos.png" width="32" height="32" align="absmiddle" alt="">&nbsp;&nbsp;<strong><a href="https://www.swipephotos.com/">SwipePhotos</a></strong><br>
   Swipe to keep your best photos and clear the rest.
 </p>
